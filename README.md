@@ -1,4 +1,4 @@
-# Swisstronik Tesnet Techinal Task 4 (Mint a PERC20 Token)
+# Swisstronik Task 4 (Mint a PERC20 Token)
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
@@ -15,7 +15,7 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-perc20-mint-token.git
+git clone https://github.com/nornetics/swisstronik-mint-token-perc20
 ```
 
 ```
